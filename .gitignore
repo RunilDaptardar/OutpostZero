@@ -1,0 +1,62 @@
+
+# ==========================================
+# Outpost Zero — Unreal Engine 5
+# ==========================================
+
+# Unreal Engine generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Visual Studio / VS Code
+/.vs/
+/.vscode/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.code-workspace
+
+# Build output
+/Build/Receipts/
+*.pdb
+*.obj
+*.ilk
+
+# Local Claude / MCP session files
+/.ignore
+/.mcp
+/ENVIRONMENT_TODO.md
+/OUTPOST_DEV_STATE.md
+/CLAUDE.md
+/.claude/
+/.claude.json
+
+# Unreal developer-specific content
+/Content/Developers/
+/Content/Collections/
+
+# Imported source assets
+/SourceAssets/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+*~
+
+# Local MCP configuration
+/.mcp.json
+
+# Unreal per-user editor settings
+/Config/DefaultEditorPerProjectUserSettings.ini
